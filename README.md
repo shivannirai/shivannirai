@@ -1,5 +1,6 @@
 
-# Hi, I'm Shivani! 👋
+# Hi, I'm Shivani!![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/shivannirai/shivannirai/assets/116882556/aa520bcd-25ba-4a36-b342-b74dd9b482e9)
+ 👋
 
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
