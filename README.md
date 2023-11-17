@@ -1,7 +1,7 @@
 
-# Hi, I'm Shivani!![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/shivannirai/shivannirai/assets/116882556/aa520bcd-25ba-4a36-b342-b74dd9b482e9)
- 👋
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/shivannirai/shivannirai/assets/116882556/72d81c91-8460-4b54-857d-e68c3a2a4e4a)
 
+# Hi, I'm Shivani! 👋
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
 
