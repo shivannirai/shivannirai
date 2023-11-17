@@ -1,6 +1,8 @@
 
 # Hi, I'm Shivani! 👋
 
+<h3 align="center">A Passionate Computer Science Engineer</h3>
+
 
 ## 🚀 About Me
 I'm an enthusiastic engineering student driven by curiosity, always ready to take on complex problems with innovative solutions. I am looking forward to apply my skills and contribute to groundbreaking projects and continuously learn and grow in the field of Computer Science & Engineering.
