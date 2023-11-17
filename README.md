@@ -25,7 +25,9 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,eclipse,firebase,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,eclipse,firebase,mysql,vscode,html,css)](https://skillicons.dev)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivannirai&show_icons=true&locale=en&layout=compact" alt="shivannirai" /></p>
 
 
 
