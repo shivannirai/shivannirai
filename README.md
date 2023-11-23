@@ -4,7 +4,6 @@
 # Hi, I'm Shivani! 👋
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
-
 ## 🚀 About Me
 I'm an enthusiastic engineering student driven by curiosity, always ready to take on complex problems with innovative solutions. I am looking forward to apply my skills and contribute to groundbreaking projects and continuously learn and grow in the field of Computer Science & Engineering.
 
@@ -29,7 +28,9 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivannirai&show_icons=true&locale=en&layout=compact" alt="shivannirai" /></p>
 
-
+### :earth_africa: Check out some of my projects  
+- [x] 🏫: **E-learning Management System** An integrated e-learning system with Java Swing and MySQL for seamless administration, student enrollment, course access, and faculty management. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
+- [x] ⏰: **Routinizer app** An Android app for seamless task management, habit-building, and productivity enhancement using timers, to-dos, reminders, and Firebase integration <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
 
 
 
