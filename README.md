@@ -18,7 +18,7 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 
 📫 How to reach me shivanidrai26@gmail.com
 
-👨‍💻 My Portfolio https://shivaniport.carrd.co/
+
 
 
 
