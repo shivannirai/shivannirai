@@ -29,7 +29,8 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivannirai&show_icons=true&locale=en&layout=compact" alt="shivannirai" /></p>
 
 ### :earth_africa: Check out some of my projects  
-- [x] 🏫: **E-learning Management System** An integrated e-learning system with Java Swing and MySQL for seamless administration, student enrollment, course access, and faculty management. 
+- [x] 🏫: **E-learning Management System** An integrated e-learning system with Java Swing and MySQL for seamless administration, student enrollment, course access, and faculty management.[🔗](https://github.com/shivannirai/E-learning-Management-System)
+
 - [x] ⏰: **Routinizer app** An Android app for seamless task management, habit-building, and productivity enhancement using timers, to-dos, reminders, and Firebase integration 
 
 
