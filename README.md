@@ -13,7 +13,7 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 
 🧠 I'm currently learning Python and Web Development.
 
-📄 Know about my experiences https://rb.gy/p2dzeq
+📄 Know about my experiences[🔗]([https://github.com/shivannirai/RoutinizerApp](https://rb.gy/p2dzeq)) 
 
 📫 How to reach me shivanidrai26@gmail.com
 
