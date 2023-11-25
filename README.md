@@ -31,7 +31,7 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 ### :earth_africa: Check out some of my projects  
 - [x] 🏫: **E-learning Management System** An integrated e-learning system with Java Swing and MySQL for seamless administration, student enrollment, course access, and faculty management.[🔗](https://github.com/shivannirai/E-learning-Management-System)
 
-- [x] ⏰: **Routinizer app** An Android app for seamless task management, habit-building, and productivity enhancement using timers, to-dos, reminders, and Firebase integration 
+- [x] ⏰: **Routinizer app** An Android app for seamless task management, habit-building, and productivity enhancement using timers, to-dos, reminders, and Firebase integration. [🔗](https://github.com/shivannirai/RoutinizerApp) 
 
 
 
